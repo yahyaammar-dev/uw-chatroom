@@ -1,0 +1,11 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+.w-50{
+    width: 50%;
+}
+.userid{
+    display: none;
+}
